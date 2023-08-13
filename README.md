@@ -3,6 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, from Russia Moscow 🇷🇺</h3>
 <div style='margin-bottom: 30px;'>
+  <img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=Alex18ss&data=followers,repositories,stars,commits">
   <h3>Skill Set</h3>
   <hr>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
@@ -19,10 +20,14 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 </div>
-<h2>Most used languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex18ss&layout=compact"/>
+<h2>Stats</h2>
+<p align=left>
+<img algin="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=Alex18ss&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex18ss&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+</p>
 <h2>CodeWars</h2>
 <img src="https://www.codewars.com/users/Alex_sp1ne/badges/large"/>
+
 
 
 
